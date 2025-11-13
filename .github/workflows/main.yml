@@ -1,0 +1,16 @@
+            - name: 发布 Dart/Flutter 包 - 最新 Flutter
+  您可以锁定到特定的提交或版本。
+  # 用途：afonsocraposo/actions-flutter-pub-publisher@7d56c3b0371352fb162ecd029b7ae978f8992217
+  使用版本：afonsocraposo/actions-flutter-pub-publisher@v1.1.0
+  和：
+    # Google 帐户凭据
+    凭据：
+    # （可选）发布包类型。（默认值：true）
+    flutter_package: # 可选，默认为 true
+    # （可选）跳过测试（默认值：false）
+    skip_test: # 可选
+    # （可选）软件包目录（默认值："."）
+    package_directory: # 可选，默认为 .
+    # （可选）试运行，不发布（默认值：false）
+    dry_run：# 可选
+          
